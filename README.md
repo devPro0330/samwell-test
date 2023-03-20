@@ -23,13 +23,13 @@ Also the user can add/update their comments in their responses.
 
   - REACT_APP_BASE_API_URL=http://localhost:3010
 
-- `yarn test`
+- `yarn start`
 
 ## How to test
 
 - Run Server
 - Locate in the client folder
-- `yarn start`
+- `yarn test`
 
 ### How did you decide which technologies to use as part of your solution?
 
