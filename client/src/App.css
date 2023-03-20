@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 3rem;
+}
+
+.application__container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.card__container {
+  background: #eee;
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: left;
+  max-width: 420px;
+}
+
+.btn__wrapper {
+  text-align: right;
+  margin-top: 1rem;
+}
+
+.error {
+  color: red;
+}
+
+.active {
+  background: skyblue;
+}
+
+video,
+textarea {
+  width: 100%;
+  border-radius: 5px;
+}
+
+textarea {
+  min-height: 100px;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+li {
+  display: inline-block;
+}
