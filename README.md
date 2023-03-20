@@ -23,7 +23,7 @@ Also the user can add/update their comments in their responses.
 
   - REACT_APP_BASE_API_URL=http://localhost:3010
 
-- `yarn start`
+- `yarn test`
 
 ## How to test
 
